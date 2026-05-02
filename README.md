@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في العتمة دليلي
+> روحي تناديك والقلب يميل
+> بين النجوم طيفك يسري في ليلي
+> نار الشوق تكوي والبعد طويل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
