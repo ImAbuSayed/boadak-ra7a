@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/boadak-ra7a/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Boadak Ra7a](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
